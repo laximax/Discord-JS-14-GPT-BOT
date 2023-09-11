@@ -17,6 +17,9 @@ This bot is an artificial intelligence tool using discord.js version 14
 - For the security of your bot, use .env file instead of config.js file
 
 - Automatic language detection based on the location of your Discord server
+  
+- Place the id of the channel you want to respond to in the const channel section in index.js
+
 ## Where will I get my api and token ?
 
 [OPENAI](https://openai.com/)
